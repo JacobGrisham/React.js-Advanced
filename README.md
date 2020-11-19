@@ -1,4 +1,4 @@
-# [Note-Taking App: React.js Advanced](https://jacobgrisham.github.io/React.js-Advanced/)
+# Note-Taking App: React.js Advanced
 ### Coding challenge from the Udemy Course [the Complete 2020 Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 I wrote the code in App.jsx, CreateArea.jsx, and Note.jsx. The other files were provided by the instructor.
 
@@ -17,6 +17,8 @@ I wrote the code in App.jsx, CreateArea.jsx, and Note.jsx. The other files were 
 - [Material UI](https://material-ui.com/) styling
 
 ## 🚀 Getting Started
+- [Live on Code Sandbox](https://codesandbox.io/s/using-pre-built-react-components-forked-ho9gn)
+
 To run this project locally:
 - In your terminal, navigate to the root folder and run the following commands
 ```
