@@ -5,16 +5,13 @@ I wrote the code in App.jsx, CreateArea.jsx, and Note.jsx. The other files were 
 ![Demo](public/demo.gif)
 
 ## 💡Lessons Learned
-- ES6 import and export modules
-- ES6 arrow functions
-- JSX
-- Babel
-- React props
+- Using logical operator `&&` as abbreviated statement (see line 41 in CreateArea.jsx)
+- ES6 ternary operator
 - React functional components
 - React component tree management
-- Changing state
-- ES6 Spread Operator
-- [Material UI](https://material-ui.com/) styling
+- Changing state with props
+- Changing state with Hooks (`useState`, `setState`)
+- [Material UI](https://material-ui.com/) icons and animations
 
 ## 🚀 Getting Started
 - [Live on Code Sandbox](https://codesandbox.io/s/using-pre-built-react-components-forked-ho9gn)
